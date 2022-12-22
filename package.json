@@ -1,5 +1,5 @@
 {
-  "name": "styler-styled",
+  "name": "@vtechguys/styler-styled",
   "version": "0.0.1",
   "description": "styled react version of @vtechguys/styler",
   "main": "src/index.js",
@@ -18,5 +18,14 @@
     "@vtechguys/styler": "^1.0.3",
     "clsx": "^1.2.1",
     "react": "^18.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtechguys/styler-styled.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vtechguys/styler-styled/issues"
+  },
+  "homepage": "https://github.com/vtechguys/styler-styled#readme"
 }
