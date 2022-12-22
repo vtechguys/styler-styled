@@ -15,7 +15,7 @@ The simplest way writing css-in-js in any framework: react/vue/angular. It is na
 ## Use
 
 ```js
-import { css } from "@vtechguys/styler";
+import { css } from "@vtechguys/styler-styled";
 
 const boxStyles = {
   width: "50px",
@@ -35,7 +35,7 @@ console.log("generated class: ", className); // generated class: css-1234
 The above shows how native it can be used and thus framework agnostic. Following is using it with react.
 
 ```jsx
-import { css } from "@vtechguys/styler";
+import { css } from "@vtechguys/styler-styled";
 
 const styles = {
   boxStyles: css({
